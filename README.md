@@ -8,7 +8,10 @@ OBJETIVO:  El objetivo final de este Trabajo Práctico es implementar la fórmul
 
 ENUNCIADO:
 Introducción:
-En una sección distante del centro estratégico de un establecimiento industrial ocurre el hallazgo de un barril metálico.
+En una sección distante del centro estratégico de un establecimiento industrial ocurre el hallazgo de un barril metálico dispuesto segun el siguiente esquema:
+
+![imagen1_tp1](https://github.com/agusdelva/TP-1-Analisis-numerico/assets/65829590/8b7afcf9-b88e-4cb5-8551-f833a9522022)
+
 Con el fin de evaluar las características del barril y de su contenido se llevan a cabo distintas acciones. Como primer paso se miden las dimensiones del barril confirmando que es un cilindro con diámetro D y longitud L. Se aprecia una abertura en la parte superior del cilindro, a través de la que se extrae una muestra del contenido, determinando que contiene una sustancia líquida. Durante la extracción se comprueba que el barril no está completamente lleno, ya que se detecta la existencia de una porción libre de altura HL que queda sin cuantificar por carecer de instrumentos de medición adecuados para tal fin.
 
 
